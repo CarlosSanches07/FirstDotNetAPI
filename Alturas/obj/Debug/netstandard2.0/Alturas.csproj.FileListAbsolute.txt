@@ -1,0 +1,8 @@
+C:\Users\carlos.roberto\Documents\dotnet-api\Alturas\bin\Debug\netstandard2.0\Alturas.deps.json
+C:\Users\carlos.roberto\Documents\dotnet-api\Alturas\bin\Debug\netstandard2.0\Alturas.dll
+C:\Users\carlos.roberto\Documents\dotnet-api\Alturas\bin\Debug\netstandard2.0\Alturas.pdb
+C:\Users\carlos.roberto\Documents\dotnet-api\Alturas\obj\Debug\netstandard2.0\Alturas.csproj.CoreCompileInputs.cache
+C:\Users\carlos.roberto\Documents\dotnet-api\Alturas\obj\Debug\netstandard2.0\Alturas.AssemblyInfoInputs.cache
+C:\Users\carlos.roberto\Documents\dotnet-api\Alturas\obj\Debug\netstandard2.0\Alturas.AssemblyInfo.cs
+C:\Users\carlos.roberto\Documents\dotnet-api\Alturas\obj\Debug\netstandard2.0\Alturas.dll
+C:\Users\carlos.roberto\Documents\dotnet-api\Alturas\obj\Debug\netstandard2.0\Alturas.pdb

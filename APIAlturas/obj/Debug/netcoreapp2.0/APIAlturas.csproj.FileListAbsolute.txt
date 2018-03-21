@@ -1,0 +1,12 @@
+C:\Users\carlos.roberto\Documents\dotnet-api\APIAlturas\obj\Debug\netcoreapp2.0\APIAlturas.csproj.CoreCompileInputs.cache
+C:\Users\carlos.roberto\Documents\dotnet-api\APIAlturas\obj\Debug\netcoreapp2.0\APIAlturas.AssemblyInfoInputs.cache
+C:\Users\carlos.roberto\Documents\dotnet-api\APIAlturas\obj\Debug\netcoreapp2.0\APIAlturas.AssemblyInfo.cs
+C:\Users\carlos.roberto\Documents\dotnet-api\APIAlturas\bin\Debug\netcoreapp2.0\APIAlturas.deps.json
+C:\Users\carlos.roberto\Documents\dotnet-api\APIAlturas\bin\Debug\netcoreapp2.0\APIAlturas.runtimeconfig.json
+C:\Users\carlos.roberto\Documents\dotnet-api\APIAlturas\bin\Debug\netcoreapp2.0\APIAlturas.runtimeconfig.dev.json
+C:\Users\carlos.roberto\Documents\dotnet-api\APIAlturas\bin\Debug\netcoreapp2.0\APIAlturas.dll
+C:\Users\carlos.roberto\Documents\dotnet-api\APIAlturas\bin\Debug\netcoreapp2.0\APIAlturas.pdb
+C:\Users\carlos.roberto\Documents\dotnet-api\APIAlturas\bin\Debug\netcoreapp2.0\Alturas.dll
+C:\Users\carlos.roberto\Documents\dotnet-api\APIAlturas\bin\Debug\netcoreapp2.0\Alturas.pdb
+C:\Users\carlos.roberto\Documents\dotnet-api\APIAlturas\obj\Debug\netcoreapp2.0\APIAlturas.dll
+C:\Users\carlos.roberto\Documents\dotnet-api\APIAlturas\obj\Debug\netcoreapp2.0\APIAlturas.pdb
